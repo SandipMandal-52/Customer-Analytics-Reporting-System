@@ -2,6 +2,11 @@
 
 <img width="1672" height="941" alt="cover" src="https://github.com/user-attachments/assets/47c64333-08d0-4b15-a2ad-ea4c692c9f76" />
 
+---
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/93d2f152-d349-49b5-8026-0b025413c997" />
+
+
 
 ### SQL Data Warehouse & Business Intelligence Project
 
