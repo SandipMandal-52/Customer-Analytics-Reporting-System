@@ -1,5 +1,8 @@
 # Customer Analytics Reporting System
 
+<img width="1672" height="941" alt="cover" src="https://github.com/user-attachments/assets/47c64333-08d0-4b15-a2ad-ea4c692c9f76" />
+
+
 ### SQL Data Warehouse & Business Intelligence Project
 
 ---
